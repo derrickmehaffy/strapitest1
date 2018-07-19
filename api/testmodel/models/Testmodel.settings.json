@@ -1,0 +1,30 @@
+{
+  "connection": "default",
+  "collectionName": "testmodels",
+  "info": {
+    "name": "testmodel",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "teststring": {
+      "type": "string"
+    },
+    "testint": {
+      "type": "integer"
+    },
+    "testdate": {
+      "type": "date"
+    },
+    "testtext": {
+      "type": "text"
+    },
+    "testboolean": {
+      "type": "boolean"
+    }
+  }
+}

@@ -35,5 +35,24 @@
         "appearance": ""
       }
     }
+  },
+  "testmodel": {
+    "attributes": {
+      "teststring": {
+        "appearance": ""
+      },
+      "testint": {
+        "appearance": ""
+      },
+      "testdate": {
+        "appearance": ""
+      },
+      "testtext": {
+        "appearance": ""
+      },
+      "testboolean": {
+        "appearance": ""
+      }
+    }
   }
 }
